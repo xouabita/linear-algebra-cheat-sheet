@@ -30,3 +30,10 @@ Vector space, subspace, linear independence
 
 Three vectors : v1, v2, v3.  
 If α.v1 + β.v2 + γ.v3 = θ have for only solution : α = β = γ = θ, then the three vectors are lineary independent
+
+Matrices
+--------
+
+### 1. Finding the rank of a matrice
+
+https://www.youtube.com/watch?v=JUgrBkPteTg
