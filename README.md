@@ -36,4 +36,5 @@ Matrices
 
 ### 1. Finding the rank of a matrice
 
-https://www.youtube.com/watch?v=JUgrBkPteTg
+To find the rank of a matrice A, we transform this matrice by elementary row operation of GEM to the matrix B.  
+The rank of the matrice A ( rk(A) ) is the number of non-zero rows in the matrice B.
