@@ -50,6 +50,17 @@ Matrices
 To find the rank of a matrice A, we transform this matrice by elementary row operation of GEM to the matrix B.  
 The rank of the matrice A ( rk(A) ) is the number of non-zero rows in the matrice B.
 
+Linear map
+----------
+
+### 1. Find Ker, nul and rk
+
+Consider a map A and x ∈ K.
+
+1. **Ker :** Find the solution for A (x) = 0
+2. **Nul :** nul (A) = dim ( Ker(A) )
+3. **Rk  :** rk(A) = dim (A) - nul(A)
+
 Linear manifolds
 ----------------
 
