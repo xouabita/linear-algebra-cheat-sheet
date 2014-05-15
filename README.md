@@ -50,6 +50,15 @@ Matrices
 To find the rank of a matrice A, we transform this matrice by elementary row operation of GEM to the matrix B.  
 The rank of the matrice A ( rk(A) ) is the number of non-zero rows in the matrice B.
 
+Linear manifolds
+----------------
+
+### 1. Position of manifolds
+
+1. **Pll :** z(w1) ≤ z(w2) or z(w2) ≤ z(w1)
+2. **Intersecting :** if not pll and w1 ⋂ w2 ≠ 0
+3. **Skew :** not pll and w1 ⋂ w2 = 0
+
 Scalar product, geometry
 ------------------------
 
