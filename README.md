@@ -36,7 +36,7 @@ Basis, dimension, coordinates, subspace
 
 ### 1. Verify if a set is a basis of vector space
 
-Set P is a basis of vector space if P is lineary independent dim(P) = dim(vector space)
+Set P is a basis of vector space if P is lineary independent and dim(P) = dim(vector space).
 
 Matrices
 --------
