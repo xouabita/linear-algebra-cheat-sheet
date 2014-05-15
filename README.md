@@ -31,6 +31,13 @@ Vector space, subspace, linear independence
 Three vectors : v1, v2, v3.  
 If α.v1 + β.v2 + γ.v3 = θ have for only solution : α = β = γ = θ, then the three vectors are lineary independent
 
+Basis, dimension, coordinates, subspace
+---------------------------------------
+
+### 1. Verify if a set is a basis of vector space
+
+Set P is a basis of vector space if P is lineary independent dim(P) = dim(vector space)
+
 Matrices
 --------
 
