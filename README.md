@@ -1,6 +1,10 @@
 Linear Algebra - Review Sheet
 =============================
 
+*To print this review sheet : http://kiq.li/34K.*  
+*Feel free to correct, fork or open issue for any mistakes.*
+
+
 Vector space, subspace, linear independence
 -------------------------------------------
 
