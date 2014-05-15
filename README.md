@@ -45,3 +45,15 @@ Matrices
 
 To find the rank of a matrice A, we transform this matrice by elementary row operation of GEM to the matrix B.  
 The rank of the matrice A ( rk(A) ) is the number of non-zero rows in the matrice B.
+
+Scalar product, geometry
+------------------------
+
+### 1. Axioms for a scalar product
+
+∀ x,y,z ∈ V and ∀ α ∈ T :
+
+1. **Linearity in second argument :** (x, αy + z) = α(x,y) + (x,z)
+2. **Hermitian symmetry :**
+  ![alt text](http://i.imgur.com/FPUkDTz.png)
+3. **Positive deﬁniteness :** (x,x) ≥ 0 ∧ ( (x,x) = 0 ⇔ x = 0 )
