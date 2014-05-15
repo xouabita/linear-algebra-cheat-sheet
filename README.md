@@ -1,7 +1,7 @@
 Linear Algebra - Review Sheet
 =============================
 
-*To print this review sheet :* [http://kiq.li/34K](http://kiq.li/34K)  
+*To print this review sheet : http://kiq.li/34K*  
 *Feel free to correct, fork or open issue for any mistakes.*
 
 
@@ -57,7 +57,7 @@ Scalar product, geometry
 
 ∀ x,y,z ∈ V and ∀ α ∈ T :
 
-1. **Linearity in second argument :** (x, αy + z) = α(x,y) + (x,z)
-2. **Hermitian symmetry :**
+1. **Linearity :** (x, αy + z) = α(x,y) + (x,z)
+2. **Symmetry :**
   ![alt text](http://i.imgur.com/FPUkDTz.png)
 3. **Positive deﬁniteness :** (x,x) ≥ 0 ∧ ( (x,x) = 0 ⇔ x = 0 )
